@@ -1,2 +1,2 @@
 # Test
-web progrzmming using python and JavaScript
+web programming using python and JavaScript
